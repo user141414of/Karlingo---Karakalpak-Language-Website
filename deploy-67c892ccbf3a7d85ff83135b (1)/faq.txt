@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ | Karlingo</title>
+    <link rel="stylesheet" href="./faq.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!-- 
+
+Hi There!
+
+You can also use this in any other two column section.
+
+Take love!
+#rir360
+
+-->
+<section class="">
+    <div class="overlay py-4">
+      <div class="container">
+        <div class="d-flex flex-column flex-md-row gap-3 justify-content-between align-items-start">
+          <div class="col-md-4 col-lg-5 col-md-5 sticky-top py-4 px-4 px-md-0 bg-white-gradient">
+            <h1 class="mb-3 fw-bold">Frequently Asked Questions</h1>
+            <div class="mb-2 d-none d-md-block">
+              Here are some of the most common questions we receive about backlink outreach:
+            </div>
+            <button class="btn btn-primary rounded-pill px-4">
+              Hire Us Today! <i class="fa fa-angle-right"></i>
+            </button>
+          </div>
+          <div class="col px-4 py-3">
+            <div class="accordion" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    What is backlink outreach, and how can it benefit my website?
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-0">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-0" aria-expanded="false" aria-controls="collapse-0">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-0" class="accordion-collapse collapse" aria-labelledby="heading-0" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-1">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-1" class="accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-2">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-2" class="accordion-collapse collapse" aria-labelledby="heading-2" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-3">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-3" class="accordion-collapse collapse" aria-labelledby="heading-3" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-4">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-4" class="accordion-collapse collapse" aria-labelledby="heading-4" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-5">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-5" class="accordion-collapse collapse" aria-labelledby="heading-5" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-6">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                    I'm worried about getting penalized by search engines. Is backlink outreach
+                    safe?
+                  </button>
+                </h2>
+                <div id="collapse-6" class="accordion-collapse collapse" aria-labelledby="heading-6" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A backlink is an incoming hyperlink from one web page to another website. It is
+                    a form of citation or vote of confidence. Quality backlinks from relevant
+                    sources can boost your website's authority and ranking.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-7">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">
+                    How do I get started with backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-7" class="accordion-collapse collapse" aria-labelledby="heading-7" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Contact us for a free consultation and we'll work with you to develop a
+                    customized backlink outreach strategy that fits your needs and goals.
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-8">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-8" class="accordion-collapse collapse" aria-labelledby="heading-8" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-9">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9" aria-expanded="false" aria-controls="collapse-9">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-9" class="accordion-collapse collapse" aria-labelledby="heading-9" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-10">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-10" aria-expanded="false" aria-controls="collapse-10">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-10" class="accordion-collapse collapse" aria-labelledby="heading-10" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-11">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-11" aria-expanded="false" aria-controls="collapse-11">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-11" class="accordion-collapse collapse" aria-labelledby="heading-11" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-12">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-12" aria-expanded="false" aria-controls="collapse-12">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-12" class="accordion-collapse collapse" aria-labelledby="heading-12" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="heading-13">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-13" aria-expanded="false" aria-controls="collapse-13">
+                    What are some other benefits of backlink outreach?
+                  </button>
+                </h2>
+                <div id="collapse-13" class="accordion-collapse collapse" aria-labelledby="heading-13" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    In addition to improving your website's authority and ranking, backlink outreach
+                    can also help you:
+                    <ul>
+                      <li>Improve your online reputation</li>
+                      <li>Increase your brand visibility</li>
+                      <li>Boost your conversions and sales</li>
+                      <li>Enhance your credibility and trustworthiness</li>
+                      <li>Improve your social media engagement</li>
+                      <li>Get more traffic to your website</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="text-start fixed-bottom text-muted m-3">
+    Designed by #rir360.
+  </div>
+</body>
+</html>
